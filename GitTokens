@@ -1,0 +1,10 @@
+- To run the .py file.
+    1) Open cmd or terminal in your machine.
+    2) Go to the directory when you have .py file present using command cd "path of your directory".
+    3) Type "file.py" run the code.
+
+ - How to get git auth Token.
+    1) Login to github and go to settings. 
+    2) Click on Developer settings.
+    3) Click on Generate Token.
+  
