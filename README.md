@@ -1,6 +1,6 @@
 # GitAPIs
 
-Git has APIs to get users, Repos, stargazers and watches. Which is very useful to analyse repositories and user action.
+Git has APIs to get users list, Repos, stargazers and watches. Which is very useful to analyse repositories and user action.
 
 We are going to write a small code to demonstrate how you can get such details from github using APIs.
 
