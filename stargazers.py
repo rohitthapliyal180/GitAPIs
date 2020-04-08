@@ -75,9 +75,10 @@ def openGitApi():
                         'stargazer_name': user['user']['login']
                     }
             df_stars = df_stars.append(d_tmp, ignore_index=True)
-    df_stars.to_csv('/Users/rohitthapliyal/Downloads/repo_starred.csv', index = False)    
+    #change path as per your machine directory to save the dataframe to csv        
+    df_stars.to_csv('path-to-your-directory/repo_starred.csv', index = False)    
 
-#change path as per your machine directory to save the dataframe to csv
+
 if __name__ == "__main__": 
     openGitApi()
 
